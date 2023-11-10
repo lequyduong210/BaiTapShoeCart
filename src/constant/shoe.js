@@ -1,0 +1,4 @@
+export const VIEW_DETAIL = "VIEW_DETAIL";
+export const HANDLE_CART = "HANDLE_CART";
+export const HANDLE_REMOVE = "HANDLE_REMOVE";
+export const INCREASE_QUANTITY = "INCREASE_QUANTITY";
